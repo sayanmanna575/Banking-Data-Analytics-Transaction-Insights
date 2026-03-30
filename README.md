@@ -233,34 +233,6 @@ This shows the ability to iterate and improve based on feedback - a crucial prof
 
 ---
 
-## Team Project
-
-### Collaboration Details
-This project was developed by a team of **5 college students** working together over multiple weeks, demonstrating:
-
-**Teamwork Skills:**
-- Dividing work based on individual strengths
-- Regular team meetings and progress checks
-- Peer review of each other's code and designs
-- Collaborative problem-solving when issues arose
-
-**Typical Team Roles:**
-1. **Data Specialist**: Cleaned and prepared datasets
-2. **Visualization Designer**: Created dashboard layouts and charts
-3. **Analyst**: Performed statistical analysis and identified trends
-4. **Documentation Lead**: Wrote reports and created presentations
-5. **Project Coordinator**: Managed timelines and team communication
-
-*(Note: Rotate roles so everyone learns all aspects!)*
-
-### What We Learned Working Together
-- How to use Git for version control (though not heavily used here)
-- How to give and receive constructive feedback
-- How to merge different ideas into one cohesive product
-- Time management across a multi-week project
-- Presenting as a unified team to instructors
-
----
 
 ## Learning Outcomes
 
